@@ -95,8 +95,8 @@ This Flask web app allows users to input personal and lifestyle data through a f
 **To run locally:**
 
 ```bash
-git clone https://github.com/anshikaatiwari/Mental_Health_Risk_Assessment
-cd Mental_Health_Risk_Assessment
+git clone https://github.com/anshikaatiwari/Mental-Health-Risk-Assessment-App
+cd Mental-Health-Risk-Assessment-App
 pip install -r requirements.txt
 python app.py
 ```
