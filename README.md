@@ -70,7 +70,6 @@ Each model was trained using a pipeline built with `scikit-learn`, using column 
 | Model Training | scikit-learn          |
 | Web Framework  | Flask                 |
 | Frontend       | Bootstrap 5           |
-| Deployment     | GitHub + Render/Local |
 
 ---
 
